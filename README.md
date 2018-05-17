@@ -2,7 +2,7 @@
 this is a demo written by zhanghao and liquor233 used for ciscn's sencond presentation  
 (on the day **5.18**)  
 ## function  
-our simple demo is about adversarial sample in machine learning area   
+our simple demo about adversarial sample in machine learning area   
 ## 使用方法  
 运行该demo,点击upload,可以上传mnist或者roadsign数据集(使用下拉选框进行选择,数据放在data文件夹中)  
 选择左边的detect,发现分类正确  
@@ -39,4 +39,6 @@ our simple demo is about adversarial sample in machine learning area
 ├── ui\_mainwindow.py(ui设计文件)  
 ├── util.py(某些工具库函数)  
 ## 写在后面
-2天内和队友@zhanghao一起极限写demo,虽然很粗糙很简陋,但也是蛮不错的体验lalalalalala
+2天内和队友@zhanghao一起极限写demo,虽然很粗糙很简陋,但也是蛮不错的体验  
+不管是界面还是实际的numpy, 神经网络自己还是太菜了  
+还是要努力增长姿势水平  
